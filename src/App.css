@@ -1,0 +1,54 @@
+/* Other rules */
+body {
+  background-color: rgb(6, 5, 5);
+}
+.container {
+  width: 100vw;
+}
+
+.netflix {
+  font-size: 38px;
+  color: #ffffff;
+  display: flex;
+  overflow-x: scroll;
+  margin-bottom: 25px;
+  margin: 25px;
+}
+
+p {
+  font-size: 38px;
+  color: #ffffff;
+  margin: 25px;
+}
+
+.netflix::-webkit-scrollbar {
+  display: none;
+}
+
+.firstname {
+  color: #fff8dc;
+  font-size: 38px;
+  color: #c86a37;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+  margin: 30px;
+}
+.yellow {
+  color: #fff8dc;
+  font-size: 38px;
+  color: #c8bc37;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+  margin: 30px;
+}
+h2 {
+  color: #fff;
+  margin: 30px;
+  display: flex;
+}
+
+.logo {
+  width: 250px;
+}
